@@ -1,0 +1,25 @@
+.container {
+    max-width: 500px;
+    padding: 20px;
+    margin-top: 50px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+  }
+  
+  h1 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .btn {
+    padding: 10px 20px;
+  }
+  
+  .list-group-item {
+    margin-bottom: 10px;
+  }
+  

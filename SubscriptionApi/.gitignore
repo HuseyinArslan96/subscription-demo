@@ -1,0 +1,3 @@
+# Visual Studio dosyalarını hariç tut
+.vs/
+*.vsidx

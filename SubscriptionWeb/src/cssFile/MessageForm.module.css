@@ -1,0 +1,23 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px; /* Üst bileşen ile arasında 20px boşluk bırakır */
+  }
+  
+  .formGroup {
+    display: flex;
+    align-items: center; /* Yatayda hizalamak için */
+    justify-content: space-between; /* Textarea ve buton arasına boşluk bırakır */
+  }
+  
+  .messageInput {
+    flex: 1; /* Textarea'nın genişlemesini sağlar */
+    margin-right: 10px; /* Buton ile arasında boşluk oluşturur */
+  }
+  
+  .sendButton {
+    height: 40px; /* Placeholder'ın yüksekliğine uygun hale getirmek için */
+    padding: 0 10px;
+    font-size: 14px;
+  }
+  
